@@ -1,6 +1,6 @@
-# 👋 ¡Hola! Soy Corredor29  
+# Hola, soy Felipe Corredor Silva
 
-![Banner](https://i.imgur.com/abcd123.png) <!-- Aquí puedes poner un banner -->
+![Banner]([https://i.imgur.com/abcd123.png](https://www.google.com/url?sa=i&url=https%3A%2F%2Fmx.pinterest.com%2Fpin%2F1266706133525400%2F&psig=AOvVaw3DuXH-ibIibTCRRk_2E7m6&ust=1758511554554000&source=images&cd=vfe&opi=89978449&ved=0CBUQjRxqFwoTCNCyqJf06I8DFQAAAAAdAAAAABAE) <!-- Aquí puedes poner un banner -->
 
 ## 🚀 Sobre mí
 - 🎓 Estudiante de desarrollo de software en **Campuslands**  

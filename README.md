@@ -1,6 +1,6 @@
-# Hola, soy Felipe Corredor Silva
 
-![Banner](/image/3a3dd0ebccf344127049cf038d68f714.jpg) <!-- Aquí puedes poner un banner -->
+![Banner](/image/CampusLogo-D-tNsIok.png) <!-- Aquí puedes poner un banner -->
+## Presentacion
 
 ## 🚀 Sobre mí
 - 🎓 Estudiante de desarrollo de software en **Campuslands**  

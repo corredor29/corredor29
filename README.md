@@ -6,7 +6,7 @@
 - 🎓 Estudiante de desarrollo de software en **Campuslands**  
 - 💻 Me gusta **HTML, CSS, JavaScript y Python**  
 - 🌱 Actualmente aprendiendo **React**  
-- 🎮 Me encanta el mundo de los videojuegos y el diseño web  
+- 🎮 Me encanta el mundo de los videojuegos 
 
 ---
 

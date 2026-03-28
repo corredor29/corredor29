@@ -4,8 +4,8 @@
 
 ## 🚀 Sobre mí
 - 🎓 Estudiante de desarrollo de software en **Campuslands**  
-- 💻 Me gusta **HTML, CSS, JavaScript y Python**  
-- 🌱 Actualmente aprendiendo **React**  
+- 💻 Me gusta **HTML, CSS, JavaScript y Python React**  
+- 🌱 Actualmente aprendiendo **C#**  
 - 🎮 Me encanta el mundo de los videojuegos 
 
 ---

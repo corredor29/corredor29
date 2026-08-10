@@ -1,94 +1,72 @@
-<!-- ENCABEZADO ANIMADO TIPO TERMINAL -->
-<div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=00F5FF&center=true&vcenter=true&width=500&height=50&lines=corredor29%40github%3A~%24+./profile.sh;Full-Stack+%26+Backend+Developer;C%23+%7C+Python+%7C+React+%7C+MySQL" alt="Typing SVG" />
-</div>
+<h1 align="center">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=24&pause=1000&color=00F5FF&center=true&vcenter=true&width=550&height=50&lines=corredor29+%7C+Full-Stack+Developer;C%23+%2B+.NET+%7C+Python+%7C+React;Building+Scalable+Software+Architectures" alt="Typing SVG" />
+</h1>
 
 <br />
 
-<!-- TARJETA PRINCIPAL Y STATS EN GRID -->
-<div align="center">
-  <table border="0">
-    <tr>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api?username=corredor29&show_icons=true&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=A9B1D6&bg_color=0D1117" width="100%" alt="GitHub Stats" />
-      </td>
-      <td width="50%" align="center" valign="top">
-        <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corredor29&layout=compact&theme=tokyonight&hide_border=true&title_color=00F5FF&text_color=A9B1D6&bg_color=0D1117" width="100%" alt="Top Languages" />
-      </td>
-    </tr>
-  </table>
-</div>
-
-<!-- RACHA DE COMMITS DE ANCHO COMPLETO -->
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=corredor29&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF" width="98%" alt="Streak Stats" />
-</div>
+<!-- PRESENTACIÓN RÁPIDA EN CÁPSULA -->
+<p align="center">
+  👋 <b>¡Hola! Soy un Desarrollador Software enfocado en soluciones Full-Stack y Backend.</b><br>
+  Especializado en diseñar APIs robustas, gestionar bases de datos relacionales y crear interfaces dinámicas.
+</p>
 
 <br />
 
-<!-- TECH STACK MEJORADO CON ICONOS COLORIDOS -->
+<!-- ACTIVIDAD Y ESTADÍSTICAS (URL DIRECTA SIN BLOQUEO) -->
 <div align="center">
-  <h2>🛠️ Tech Stack & Ecosystem</h2>
+  <h2>⚡ Telemetry & Activity</h2>
   
+  <a href="https://github.com/corredor29">
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=corredor29&theme=tokyonight&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF" width="80%" alt="GitHub Streak" />
+  </a>
+</div>
+
+<br />
+
+<!-- TECH STACK ORGANIZADO POR CATEGORÍAS -->
+<div align="center">
+  <h2>🛠️ Tech Stack</h2>
+
+  <p><b>Backend & Core Languages</b></p>
   <p>
-    <!-- Backend & Core -->
     <img src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
     <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
     <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
   </p>
+
+  <p><b>Frontend Development</b></p>
   <p>
-    <!-- Frontend -->
-    <img src="https://img.shields.io/badge/React-61DAFB?style=for-the-badge&logo=react&logoColor=black" />
+    <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" />
     <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" />
     <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" />
   </p>
+
+  <p><b>Databases & Tools</b></p>
   <p>
-    <!-- DB & Tools -->
-    <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+    <img src="https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white" />
     <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
-    <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" />
   </p>
 </div>
 
 <br />
 
-<!-- REPOSITORIOS DESTACADOS (CARDS LIMPIAS) -->
+<!-- PROYECTOS DESTACADOS -->
 <div align="center">
   <h2>🚀 Featured Projects</h2>
 </div>
 
-<table align="center" width="100%">
-  <tr>
-    <td width="50%" valign="top">
-      <h3>📌 Sistema de Gestión / Backend API</h3>
-      <p>Arquitectura limpia en .NET Core / C# con persistencia de datos en MySQL.</p>
-      <p>
-        <img src="https://img.shields.io/badge/C%23-239120?style=flat&logo=c-sharp&logoColor=white" />
-        <img src="https://img.shields.io/badge/MySQL-4479A1?style=flat&logo=mysql&logoColor=white" />
-      </p>
-    </td>
-    <td width="50%" valign="top">
-      <h3>📌 App Web Interactiva / Frontend</h3>
-      <p>Interfaz dinámica desarrollada en React estructurada con componentes reutilizables.</p>
-      <p>
-        <img src="https://img.shields.io/badge/React-61DAFB?style=flat&logo=react&logoColor=black" />
-        <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=flat&logo=javascript&logoColor=black" />
-      </p>
-    </td>
-  </tr>
-</table>
+```xml
+┌────────────────────────────────────────────────────────────────────────┐
+│  📌 SISTEMA DE GESTIÓN & BACKEND API                                  │
+│  • Desarrollo de arquitectura limpia con C# / .NET Core.              │
+│  • Optimización de consultas y persistencia en MySQL.                  │
+│  • Stack: C# | MySQL | Git                                             │
+└────────────────────────────────────────────────────────────────────────┘
 
-<br />
-
-<!-- FOOTER CONTACTO -->
-<hr style="border: 0.5px solid #30363d;" />
-
-<div align="center">
-  <p><b>📬 Let's Connect:</b></p>
-  <a href="https://linkedin.com/in/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-  <a href="mailto:tuemail@ejemplo.com">
-    <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-</div>
+┌────────────────────────────────────────────────────────────────────────┐
+│  📌 APLICACIÓN WEB INTERACTIVA FRONTEND                                │
+│  • Interfaz responsiva y dinámica creada con React.js.                 │
+│  • Integración de componentes reutilizables y consumo de APIs REST.   │
+│  • Stack: React | JavaScript | CSS3                                    │
+└────────────────────────────────────────────────────────────────────────┘

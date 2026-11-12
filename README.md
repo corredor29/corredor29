@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<img width="100%" src="./image/banner.svg" alt="Felipe Corredor — Full-Stack &amp; Backend Developer" />
+<img width="100%" src="./image/hero.svg" alt="Felipe Corredor — Full-Stack &amp; Backend Developer" />
 
 <div align="center">
 

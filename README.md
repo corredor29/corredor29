@@ -1,11 +1,7 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4D64,100:00F5FF&height=200&section=header&text=Felipe%20Corredor&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20y%20Backend%20Developer&descSize=18&descAlignY=58" alt="Felipe Corredor" />
+<img width="100%" src="./image/banner.svg" alt="Felipe Corredor — Full-Stack &amp; Backend Developer" />
 
 <div align="center">
-
-<a href="https://github.com/corredor29">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&pause=1200&color=00F5FF&center=true&vcenter=true&width=700&height=40&lines=Clean+Architecture+con+C%23+%2F+.NET;APIs+RESTful+escalables+y+seguras;Interfaces+modernas+con+React+%26+Vue;Agentes+de+IA+y+automatizaciones+con+n8n" alt="Typing SVG" />
-</a>
 
 <p>
   <a href="mailto:corredorsilvafelipe8@gmail.com"><img src="https://img.shields.io/badge/Email-0D1117?style=for-the-badge&logo=gmail&logoColor=00F5FF" alt="Email" /></a>
@@ -163,4 +159,3 @@ public sealed record Developer
 
 </div>
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:00F5FF,50:0E4D64,100:0D1117&height=110&section=footer" alt="footer" />

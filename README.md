@@ -1,5 +1,5 @@
 <!-- ═══════════════════════════ HEADER ═══════════════════════════ -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4D64,100:00F5FF&height=200&section=header&text=Felipe%20Corredor&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20%26%20Backend%20Developer&descSize=18&descAlignY=58" alt="Felipe Corredor" />
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0D1117,50:0E4D64,100:00F5FF&height=200&section=header&text=Felipe%20Corredor&fontSize=52&fontColor=ffffff&fontAlignY=36&desc=Full-Stack%20y%20Backend%20Developer&descSize=18&descAlignY=58" alt="Felipe Corredor" />
 
 <div align="center">
 

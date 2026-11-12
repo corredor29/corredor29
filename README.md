@@ -146,12 +146,12 @@ public sealed record Developer
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=corredor29&show_icons=true&hide_border=true&bg_color=0D1117&title_color=00F5FF&icon_color=00F5FF&text_color=c9d1d9&rank_icon=github&count_private=true&include_all_commits=true" height="170" alt="GitHub Stats" />
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=corredor29&layout=compact&hide_border=true&bg_color=0D1117&title_color=00F5FF&text_color=c9d1d9&langs_count=8" height="170" alt="Top Languages" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=corredor29&theme=github_dark" width="100%" alt="Perfil" />
+
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/stats?username=corredor29&theme=github_dark" height="170" alt="Stats" />
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=corredor29&theme=github_dark" height="170" alt="Lenguajes por commits" />
 
 <img src="https://streak-stats.demolab.com/?user=corredor29&hide_border=true&background=0D1117&ring=00F5FF&fire=00F5FF&currStreakNum=00F5FF&sideNums=c9d1d9&currStreakLabel=00F5FF&sideLabels=c9d1d9&dates=8b949e" width="80%" alt="GitHub Streak" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=corredor29&bg_color=0D1117&color=c9d1d9&line=00F5FF&point=ffffff&area=true&area_color=0E4D64&hide_border=true" width="100%" alt="Activity Graph" />
 
 </div>
 

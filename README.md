@@ -16,42 +16,35 @@
 
 ## 👨‍💻 Sobre mí
 
-<table>
-<tr>
-<td width="62%" valign="top">
-
 Soy **desarrollador Full-Stack con foco en Backend**. Me gusta diseñar sistemas que se puedan mantener y escalar: dominio limpio, capas bien separadas y APIs predecibles.
 
 ```csharp
-public sealed record Developer
+var felipe = new Developer
 {
-    public string Name      => "Felipe Corredor";
-    public string Role      => "Full-Stack & Backend Developer";
-    public string[] Core    => ["C#", ".NET", "Clean Architecture", "REST APIs"];
-    public string[] Front   => ["React", "Vue.js", "TypeScript"];
-    public string[] Data    => ["PostgreSQL", "MySQL", "Oracle"];
-    public string[] AI      => ["n8n", "Twilio", "ElevenLabs", "Agentes IA"];
-    public string Motto     => "Código que otro dev agradece leer.";
-}
+    Role  = "Full-Stack & Backend",
+    Core  = ["C#", ".NET", "Clean Architecture"],
+    Front = ["React", "Vue.js", "TypeScript"],
+    Data  = ["PostgreSQL", "MySQL", "Oracle"],
+    AI    = ["n8n", "Twilio", "ElevenLabs"],
+    Motto = "Código que otro dev agradece leer."
+};
 ```
 
-</td>
-<td width="38%" valign="top">
-
-**🔭 Ahora mismo**
-- Construyendo backends con **.NET + Clean Architecture**
-- Pipelines de **CI/CD** y despliegue por entorno
-- Agentes de voz e IA con **n8n**
-
-**🌱 Aprendiendo**
-- Arquitecturas orientadas a eventos
-- Observabilidad y testing de integración
-
-**⚡ Dato curioso**
-- Si algo se repite 3 veces, lo automatizo.
-
-</td>
-</tr>
+<table>
+  <tr>
+    <td width="33%" valign="top">
+      <b>🔭 Ahora mismo</b><br/><br/>
+      Backends con <b>.NET</b> y Clean Architecture, CI/CD por entorno y agentes de voz con <b>n8n</b>.
+    </td>
+    <td width="33%" valign="top">
+      <b>🌱 Aprendiendo</b><br/><br/>
+      Arquitecturas orientadas a eventos, observabilidad y testing de integración.
+    </td>
+    <td width="33%" valign="top">
+      <b>⚡ Dato curioso</b><br/><br/>
+      Si algo se repite tres veces, lo automatizo.
+    </td>
+  </tr>
 </table>
 
 ---
